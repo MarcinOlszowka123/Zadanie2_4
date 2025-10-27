@@ -77,6 +77,8 @@ public class Main {
           break;
         default:
           scanner.close();
+
+          break;
       }
     }
   }
